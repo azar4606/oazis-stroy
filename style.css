@@ -23,7 +23,7 @@ header h2{
     font-size: 32px;
 }
 .block1{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(fon1.png);
+    background: url(fon1.png);
     background-size:cover ;
     width: 100%;
     height: 600px;
@@ -172,7 +172,7 @@ header h2{
     height: 413px;
 }
 .group9{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(fon2.png);
+    background: url(fon2.png);
     background-size:cover ;
     width: 100%;
     height: 700px;
